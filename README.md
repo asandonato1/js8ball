@@ -1,2 +1,0 @@
-# js8ball
-codecademy
